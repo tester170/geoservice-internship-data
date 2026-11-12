@@ -1,0 +1,1 @@
+Выгрузки OpenStreetMap Geofabrik и Overpass API от 12.11.2026

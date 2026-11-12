@@ -1,0 +1,574 @@
+[
+ {
+  "key": "81f73f2bd0",
+  "tags": {
+   "amenity": [
+    "cafe",
+    "restaurant",
+    "fast_food"
+   ]
+  }
+ },
+ {
+  "key": "e34e184068",
+  "tags": {
+   "shop": true
+  }
+ },
+ {
+  "key": "ded0e142ea",
+  "tags": {
+   "office": true
+  }
+ },
+ {
+  "key": "7f4d09f657",
+  "tags": {
+   "amenity": [
+    "school",
+    "kindergarten",
+    "university",
+    "college"
+   ]
+  }
+ },
+ {
+  "key": "9aff05790d",
+  "tags": {
+   "amenity": [
+    "clinic",
+    "hospital",
+    "doctors"
+   ]
+  }
+ },
+ {
+  "key": "9ce8a1715a",
+  "tags": {
+   "highway": [
+    "bus_stop"
+   ],
+   "railway": [
+    "tram_stop",
+    "station",
+    "halt",
+    "subway_entrance"
+   ]
+  }
+ },
+ {
+  "key": "0eca01c998",
+  "tags": {
+   "leisure": [
+    "park"
+   ]
+  }
+ },
+ {
+  "key": "9b3ee7649c",
+  "tags": {
+   "building": [
+    "apartments",
+    "house",
+    "residential"
+   ]
+  }
+ },
+ {
+  "key": "c3249545a4",
+  "tags": {
+   "building": [
+    "retail",
+    "commercial",
+    "office"
+   ]
+  }
+ },
+ {
+  "key": "fbd6c39967",
+  "tags": {
+   "amenity": [
+    "parking"
+   ]
+  }
+ },
+ {
+  "key": "e68f415a7f",
+  "tags": {
+   "highway": [
+    "trunk",
+    "primary",
+    "secondary"
+   ]
+  }
+ },
+ {
+  "key": "ee7de039e6",
+  "tags": {
+   "highway": [
+    "tertiary",
+    "residential"
+   ]
+  }
+ },
+ {
+  "key": "d98d40a329",
+  "tags": {
+   "shop": [
+    "car_parts"
+   ]
+  }
+ },
+ {
+  "key": "fc0473d12d",
+  "tags": {
+   "shop": [
+    "car_repair",
+    "tyres"
+   ]
+  }
+ },
+ {
+  "key": "451d1577ce",
+  "tags": {
+   "amenity": [
+    "fuel"
+   ]
+  }
+ },
+ {
+  "key": "167f0861ce",
+  "tags": {
+   "shop": [
+    "pet"
+   ]
+  }
+ },
+ {
+  "key": "a0dd8af418",
+  "tags": {
+   "amenity": [
+    "veterinary"
+   ]
+  }
+ },
+ {
+  "key": "5bbeafa6ce",
+  "tags": {
+   "shop": [
+    "florist"
+   ]
+  }
+ },
+ {
+  "key": "bfbfb7c3a4",
+  "tags": {
+   "amenity": [
+    "hospital"
+   ]
+  }
+ },
+ {
+  "key": "be89c94908",
+  "tags": {
+   "amenity": [
+    "grave_yard"
+   ]
+  }
+ },
+ {
+  "key": "4d4ca1a0d5",
+  "tags": {
+   "landuse": [
+    "cemetery"
+   ]
+  }
+ },
+ {
+  "key": "166ff8d6e6",
+  "tags": {
+   "shop": [
+    "convenience"
+   ]
+  }
+ },
+ {
+  "key": "459d2a55c7",
+  "tags": {
+   "shop": [
+    "supermarket"
+   ]
+  }
+ },
+ {
+  "key": "45f09723aa",
+  "tags": {
+   "shop": [
+    "clothes",
+    "shoes"
+   ]
+  }
+ },
+ {
+  "key": "f7f7148870",
+  "tags": {
+   "shop": [
+    "mall"
+   ]
+  }
+ },
+ {
+  "key": "80cc2fbed0",
+  "tags": {
+   "shop": [
+    "mobile_phone",
+    "electronics"
+   ]
+  }
+ },
+ {
+  "key": "8c4f42ae28",
+  "tags": {
+   "shop": [
+    "hardware",
+    "doityourself"
+   ]
+  }
+ },
+ {
+  "key": "b0c5813dbf",
+  "tags": {
+   "shop": [
+    "cosmetics",
+    "perfumery"
+   ]
+  }
+ },
+ {
+  "key": "b4f132920c",
+  "tags": {
+   "shop": [
+    "optician"
+   ]
+  }
+ },
+ {
+  "key": "d9b0705c64",
+  "tags": {
+   "shop": [
+    "toys",
+    "baby_goods"
+   ]
+  }
+ },
+ {
+  "key": "0d7eca03dd",
+  "tags": {
+   "amenity": [
+    "kindergarten"
+   ]
+  }
+ },
+ {
+  "key": "ef25c738bc",
+  "tags": {
+   "leisure": [
+    "playground"
+   ]
+  }
+ },
+ {
+  "key": "841f32dd66",
+  "tags": {
+   "shop": [
+    "sports",
+    "outdoor"
+   ]
+  }
+ },
+ {
+  "key": "991be32160",
+  "tags": {
+   "leisure": [
+    "sports_centre",
+    "stadium"
+   ]
+  }
+ },
+ {
+  "key": "5347fb6d59",
+  "tags": {
+   "shop": [
+    "furniture"
+   ]
+  }
+ },
+ {
+  "key": "b91b3d65e8",
+  "tags": {
+   "shop": [
+    "doityourself",
+    "hardware"
+   ]
+  }
+ },
+ {
+  "key": "05a8772492",
+  "tags": {
+   "amenity": [
+    "cafe"
+   ]
+  }
+ },
+ {
+  "key": "b1c4e6252f",
+  "tags": {
+   "amenity": [
+    "university",
+    "college"
+   ]
+  }
+ },
+ {
+  "key": "55c23fb3cb",
+  "tags": {
+   "tourism": [
+    "attraction"
+   ]
+  }
+ },
+ {
+  "key": "ae1ca227e4",
+  "tags": {
+   "shop": [
+    "bakery"
+   ]
+  }
+ },
+ {
+  "key": "1794c3ab54",
+  "tags": {
+   "amenity": [
+    "fast_food"
+   ]
+  }
+ },
+ {
+  "key": "821b541560",
+  "tags": {
+   "amenity": [
+    "restaurant"
+   ]
+  }
+ },
+ {
+  "key": "23997e687f",
+  "tags": {
+   "tourism": [
+    "hotel"
+   ]
+  }
+ },
+ {
+  "key": "9a4a6ed228",
+  "tags": {
+   "amenity": [
+    "bar",
+    "pub"
+   ]
+  }
+ },
+ {
+  "key": "dd21f7168d",
+  "tags": {
+   "amenity": [
+    "restaurant",
+    "nightclub"
+   ]
+  }
+ },
+ {
+  "key": "286048d96a",
+  "tags": {
+   "cuisine": [
+    "pizza"
+   ],
+   "amenity": [
+    "fast_food",
+    "restaurant"
+   ]
+  }
+ },
+ {
+  "key": "4d54859232",
+  "tags": {
+   "amenity": [
+    "university"
+   ]
+  }
+ },
+ {
+  "key": "c9f921155f",
+  "tags": {
+   "amenity": [
+    "pharmacy"
+   ]
+  }
+ },
+ {
+  "key": "5c035540ac",
+  "tags": {
+   "healthcare": [
+    "pharmacy"
+   ]
+  }
+ },
+ {
+  "key": "840094141b",
+  "tags": {
+   "leisure": [
+    "fitness_centre"
+   ]
+  }
+ },
+ {
+  "key": "2e671640a5",
+  "tags": {
+   "shop": [
+    "beauty"
+   ]
+  }
+ },
+ {
+  "key": "0c875e0c19",
+  "tags": {
+   "shop": [
+    "hairdresser"
+   ]
+  }
+ },
+ {
+  "key": "04bbd91cee",
+  "tags": {
+   "amenity": [
+    "dentist"
+   ]
+  }
+ },
+ {
+  "key": "30bfef2c22",
+  "tags": {
+   "healthcare": [
+    "dentist"
+   ]
+  }
+ },
+ {
+  "key": "369fbc14de",
+  "tags": {
+   "amenity": [
+    "bank"
+   ]
+  }
+ },
+ {
+  "key": "075ec31148",
+  "tags": {
+   "amenity": [
+    "atm"
+   ]
+  }
+ },
+ {
+  "key": "58efd547de",
+  "tags": {
+   "shop": [
+    "outpost"
+   ]
+  }
+ },
+ {
+  "key": "90f54bd8a5",
+  "tags": {
+   "amenity": [
+    "post_office"
+   ]
+  }
+ },
+ {
+  "key": "a134aa02f3",
+  "tags": {
+   "shop": [
+    "car"
+   ]
+  }
+ },
+ {
+  "key": "c8e3c84993",
+  "tags": {
+   "shop": [
+    "car_repair"
+   ]
+  }
+ },
+ {
+  "key": "bf14619dea",
+  "tags": {
+   "amenity": [
+    "car_wash"
+   ]
+  }
+ },
+ {
+  "key": "76c805ff7a",
+  "tags": {
+   "amenity": [
+    "school"
+   ]
+  }
+ },
+ {
+  "key": "054c983607",
+  "tags": {
+   "amenity": [
+    "clinic",
+    "doctors"
+   ]
+  }
+ },
+ {
+  "key": "799a569084",
+  "tags": {
+   "healthcare": [
+    "clinic",
+    "doctor"
+   ]
+  }
+ },
+ {
+  "key": "edf98f3b60",
+  "tags": {
+   "tourism": [
+    "hotel",
+    "hostel",
+    "guest_house"
+   ]
+  }
+ },
+ {
+  "key": "2bb73c4e26",
+  "tags": {
+   "tourism": [
+    "museum"
+   ]
+  }
+ },
+ {
+  "key": "d43584f90c",
+  "tags": {
+   "railway": [
+    "station"
+   ]
+  }
+ }
+]
